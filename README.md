@@ -22,6 +22,3 @@ Repositorio técnico enfocado en la ingeniería de minería de datos y el desarr
 * Implementación algorítmica robusta orientada a la extracción de patrones.
 * Validación estadística rigurosa de modelos para asegurar la fiabilidad de los resultados.
 * Diseño de sistemas modulares para facilitar la integración y escalabilidad en entornos de producción.
-
----
-**Autor:** Alejandro Pulido Sánchez | Data & AI Engineering

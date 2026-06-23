@@ -9,11 +9,14 @@ Repositorio técnico enfocado en la ingeniería de minería de datos y el desarr
 * **Evaluación:** Stratified K-Fold Cross Validation, MSE, Accuracy.
 
 ## Estructura de Módulos
-* **`01_clustering_comparison/`**: Evaluación de algoritmos (K-Means, K-Medoids, DBSCAN) con optimización de hiperparámetros.
-* **`02_som_feature_extraction_mlp/`**: Extracción de características no supervisada mediante SOM y clasificación con MLP.
-* **`03_time_series_forecasting/`**: Benchmarking de arquitecturas recurrentes (RNN, GRU, LSTM) para series temporales.
-* **`04_hierarchical_clustering_analysis/`**: Análisis comparativo de estrategias de enlace en clustering aglomerativo.
-* **`05_cnn_deep_learning_vision/`**: Clasificación de imágenes mediante arquitecturas convolucionales profundas (CNN).
+* **`01_information_theory_decision_trees/`**: Fundamentos de teoría de la información y construcción algorítmica de árboles de decisión.
+* **`02_decision_trees_cart_vs_id3/`**: Análisis comparativo de métricas de partición espacial (CART vs ID3).
+* **`03_continuous_data_discretization/`**: Estrategias de discretización paramétrica para variables continuas.
+* **`04_knn_digit_classification/`**: Optimización de hiperparámetros en K-Nearest Neighbors para reconocimiento de patrones en imágenes.
+* **`05_linear_vs_logistic_regression/`**: Benchmarking de rendimiento entre modelos de regresión lineal continua y regresión logística probabilística.
+* **`06_custom_perceptron_and_sgd/`**: Implementación *from scratch* de un Perceptrón simple optimizado mediante Descenso de Gradiente Estocástico (SGD).
+* **`07_multilayer_perceptron_cv/`**: Diseño y evaluación de redes neuronales densas (MLP) integradas con validación cruzada.
+* **`08_rbf_svm_custom_pipeline/`**: Construcción de pipelines modulares para Máquinas de Vectores de Soporte (SVM) empleando kernels radiales (RBF).
 
 ## Objetivos Técnicos
 * Implementación algorítmica robusta orientada a la extracción de patrones.
